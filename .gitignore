@@ -4,3 +4,5 @@ Gemfile.lock
 _build/
 __pycache__
 .nox/
+.ipynb_checkpoints/
+.ipynb_checkpoints/
